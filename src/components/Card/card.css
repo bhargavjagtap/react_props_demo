@@ -1,0 +1,16 @@
+.card--img{
+    position: absolute;
+    width: 176px;
+    height: 235px;
+    left: 37px;
+    top: 521px;
+    border-radius: 9px;
+}
+
+.card--stats{
+    position: absolute;
+    width: 176px;
+    height: 58px;
+    left: 36px;
+    top: 765px;
+}
